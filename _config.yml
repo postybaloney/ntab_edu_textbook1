@@ -6,7 +6,21 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor"]
 
 url: https://postybaloney.github.io/ntab_edu_textbook1
 
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+permalink: pretty
 aux_links:
   Template Repository: https://github.com/postybaloney/ntab_edu_textbook1
+  Dark Mode:
+    - '#'
+  Ed:
+    - 'https://edstem.org/us/courses/53369/discussion/'
+  OH Queue:
+    - 'https://oh.datastructur.es/'
+  Beacon:
+    - 'https://beacon.datastructur.es/'
 
-  under_construction: true
+footer_content:
+
+under_construction: true

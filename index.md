@@ -2,7 +2,7 @@
 title: Home
 logo: "/assets/images/oohwowlogo.png"
 favicon_ico: "/assets/images/oohwowlogo.ico"
-layout: default
+layout: home
 ---
 
 {%- if site.under_construction -%}

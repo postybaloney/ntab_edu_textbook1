@@ -1,5 +1,7 @@
 ---
 title: Home
+logo: "/assets/images/oohwowlogo.png"
+favicon_ico: "/assets/images/oohwowlogo.ico"
 layout: default
 ---
 

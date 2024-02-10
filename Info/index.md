@@ -4,6 +4,7 @@ nav_order: 1
 description: >-
     General information
 under_construction: true
+theme: just-the-docs
 ---
 
 {%- if site.under_construction -%}

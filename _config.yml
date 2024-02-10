@@ -13,7 +13,7 @@ permalink: pretty
 aux_links:
   Template Repository: https://github.com/postybaloney/ntab_edu_textbook1
   Dark Mode:
-    - '#'
+    - color_scheme: dark
   Ed:
     - 'https://edstem.org/us/courses/53369/discussion/'
   OH Queue:

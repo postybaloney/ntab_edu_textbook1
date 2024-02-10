@@ -1,11 +1,11 @@
 title: NT@B Textbook
 description: Official NT@B Textbook
-theme: just-the-docs
 # logo: 
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor"]
 
 url: https://postybaloney.github.io/ntab_edu_textbook1
 
+remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
 color_scheme: light
 search_enabled: true
 heading_anchors: true
@@ -22,5 +22,8 @@ aux_links:
     - 'https://beacon.datastructur.es/'
 
 footer_content:
+
+plugins:
+  - jekyll-relative-links
 
 under_construction: true

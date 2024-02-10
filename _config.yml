@@ -23,4 +23,11 @@ aux_links:
 
 footer_content:
 
+color_scheme: wider
+
+callouts:
+  warning:
+    title: Warning
+    color: yellow
+
 under_construction: true

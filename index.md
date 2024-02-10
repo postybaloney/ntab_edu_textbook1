@@ -5,8 +5,8 @@ layout: home
 
 {%- if site.under_construction -%}
 
-<p class="warning">
-This site is under construction. All dates and policies are tentative until this message goes away.
+<p class="warning" style="color:red">
+<b><span style="color: red">This site is under construction. All dates and policies are tentative until this message goes away.</span></b>
 </p>
 {%- endif -%}
 

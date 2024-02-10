@@ -1,25 +1,10 @@
 title: NT@B Textbook
 description: Official NT@B Textbook
-# logo: 
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor"]
+theme: just-the-docs
 
 url: https://postybaloney.github.io/ntab_edu_textbook1
 
-  # Theme settings
-remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
-color_scheme: light
-search_enabled: true
-heading_anchors: true
-permalink: pretty
 aux_links:
-  Dark Mode:
-    - '#'
-  Ed:
-    - 'https://edstem.org/us/courses/53369/discussion/'
-  OH Queue:
-    - 'https://oh.datastructur.es/'
-  Beacon:
-    - 'https://beacon.datastructur.es/'
-footer_content:
+  Template Repository: https://github.com/postybaloney/ntab_edu_textbook1
 
   under_construction: true

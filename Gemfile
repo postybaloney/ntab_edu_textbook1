@@ -6,4 +6,4 @@ gem "jekyll", "~> 4.3.3" # installed by `gem jekyll`
 
 gem "just-the-docs", "0.7.0" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
-gem 'jekyll-relative-links
+gem "jekyll-relative-links"

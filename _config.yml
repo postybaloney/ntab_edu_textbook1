@@ -5,8 +5,7 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor"]
 
 url: https://postybaloney.github.io/ntab_edu_textbook1
 
-remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
-color_scheme: light
+color_scheme: dark
 search_enabled: true
 heading_anchors: true
 permalink: pretty
@@ -22,8 +21,5 @@ aux_links:
     - 'https://beacon.datastructur.es/'
 
 footer_content:
-
-plugins:
-  - jekyll-relative-links
 
 under_construction: true

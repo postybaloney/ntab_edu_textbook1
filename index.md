@@ -1,7 +1,6 @@
 ---
 title: Home
 layout: default
-nav_order = 0
 ---
 
 {%- if site.under_construction -%}

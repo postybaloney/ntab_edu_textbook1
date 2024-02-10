@@ -1,10 +1,11 @@
 ---
-layout: home
+layout: default
 nav_order: 1
 description: >-
     General information
 under_construction: true
 theme: just-the-docs
+nav_exclude: true
 ---
 
 {%- if site.under_construction -%}

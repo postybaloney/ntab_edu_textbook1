@@ -1,7 +1,7 @@
 ---
-layout: default
-description: >-
-    General information
+title: Test
+layout: page
+description: General information
 under_construction: true
 theme: just-the-docs
 ---
@@ -13,7 +13,7 @@ theme: just-the-docs
 </p>
 {%- endif -%}
 
-TEST TEST
+TEST TEST HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA
 
 By [Neda Bahrani](https://www.linkedin.com/in/neda-bahrani-654125186/), [Amelia Lubelska](https://www.linkedin.com/in/amelia-lubelska-548370221/), [Samreena Siddiqui](https://www.linkedin.com/in/samreenasiddiqui/), [Izzie Yu](https://www.linkedin.com/in/izzie-yu/), [Srujana Poluri](https://www.linkedin.com/in/srujana-poluri-289358258/), [Parth Desai](http://linkedin.com/in/parth-desai-70641316b), [Pratyush Das](http://linkedin.com/in/pratdas), and [Phil Xie](https://www.linkedin.com/in/phil-xie/).
 

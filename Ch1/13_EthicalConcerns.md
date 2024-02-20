@@ -6,7 +6,7 @@ parent: Chapter 1
 nav_order: 2
 ---
 
-Ethical Concerns
+# Ethical Concerns
 Neuroethics attempts to tackle the social, moral, and ethical problems raised by the developing field of neurotechnology. These topics range from socially systematic issues such as discrimination and inequality to abstract notions like the undermining of agency and human identity.
 
 Considerations of who has access to gathered data are essential as they influence how data can be utilized in different spaces. Due to a multitude of reasons, informed consent - the regular “terms of usage” - will not adequately inform and protect the rights of all users. This could result in information that users want to be private being gleaned.
@@ -23,7 +23,7 @@ Most of the advancements are made by private companies and military investing ra
 
 Knowledge disparity between companies and everyone else leaves much responsibility, burden on them to act ethically.
 
-Key Terms
+## Key Terms
 Reading mental states: even if we could perceive others’ thoughts, they are subjective–interpreting it as objective/absolute is a mistake: need to take into account the whole context in which it is occurring (ie a person’s entire life experiences). Researchers constructed a game and recorded the brain activity of its players. These signals could be processed to elicit details about bank PIN numbers and related private information without the game player knowing. P300 waves in response to hidden cues
 
 Cognitive liberty: if anyone became sure that measurements of their brain might reveal any of their mental contents, how might they refrain from having candid and revealing thoughts? Self-conception: it would not be certain that one might feel free to reflect upon values, decisions, or propositions without threat of consequences, so reasoned opinions would suffer.
@@ -44,7 +44,7 @@ Ask the question: why do we want this neurotech now?
 
 Ability to retract actions mediated via brain controlled devices, particularly in the case of speech prosthesis to avoid unwanted expression.
 
-Implications?
+## Implications?
 While interference with the brain can be helpful in managing symptoms of certain neurological disorders, it has the potential to cause irreversible damage to the patient. For example, new technologies are being designed to genetically modify neurons, and existing forms of neural stimulation can change neuron form and function. Researchers have already observed the onset of depressive disorders in patients that had no mental health issues prior to deep brain stimulation. The use of neurotechnology raises many ethical concerns surrounding the affects it places on one’s self self-consciousness and identity. To tackle this issue, researchers must establish guidelines to evaluate the “sameness” of a person over time. Along with ethical concerns over identity and personhood, security and privacy of brain data is a new frontier that must be dealt with in the use of readout neurotechnology. The ability to read people’s brain signals opens the possibility for ill-intentioned parties to acquire highly sensitive information.
 
 As neurotechnology and its applications unravel, it is important to question how close man and machine should be allowed to fuse together. All these concerns must be addressed, along with the pressing question: how close should we allow man and machine to fuse together?

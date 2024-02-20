@@ -1,7 +1,7 @@
 title: NT@B Textbook
 description: Official NT@B Textbook
 theme: just-the-docs
-# logo: 
+logo: "/assets/images/oohwowlogo.png"
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor"]
 
 url: https://postybaloney.github.io/ntab_edu_textbook1
@@ -11,15 +11,12 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Template Repository: https://github.com/postybaloney/ntab_edu_textbook1
   Dark Mode:
     - '#'
-  Ed:
-    - 'https://edstem.org/us/courses/53369/discussion/'
-  OH Queue:
-    - 'https://oh.datastructur.es/'
-  Beacon:
-    - 'https://beacon.datastructur.es/'
+  NT@B GitHub Repo:
+    - 'https://github.com/neurotech-berkeley'
+  NT@B Website:
+    - 'https://neurotech.berkeley.edu/index.html'
 
 footer_content:
 

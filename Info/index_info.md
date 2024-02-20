@@ -2,6 +2,7 @@
 title: Test
 layout: page
 description: General information
+has_children: true
 under_construction: true
 theme: just-the-docs
 ---

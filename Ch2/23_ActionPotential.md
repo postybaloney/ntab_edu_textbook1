@@ -6,7 +6,7 @@ parent: Chapter 2
 nav_order: 2
 ---
 
-<img align="center" alt="ActionPotential" src="assets/images/Action_Potential.png">
+<img align="center" alt="ActionPotential" width="50px" src="assets/images/ActionPotential.png">
 
 # Action Potential
 

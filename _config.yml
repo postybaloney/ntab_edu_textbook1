@@ -1,7 +1,7 @@
 title: NT@B Textbook
 description: Official NT@B Textbook
 theme: just-the-docs
-logo: "/assets/images/oohwowlogo.png"
+# logo: "/assets/images/oohwowlogo.png"
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor"]
 
 url: https://postybaloney.github.io/ntab_edu_textbook1

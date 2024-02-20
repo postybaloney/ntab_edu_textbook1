@@ -6,7 +6,7 @@ parent: Chapter 2
 nav_order: 2
 ---
 
-![Action Potential](ActionPotential.png)
+<!-- ![Action Potential](C:\Users\great\School\GitHub\ntab_edu_textbook1\assets\images\ActionPotential.png) -->
 
 # Action Potential
 

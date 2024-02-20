@@ -1,0 +1,16 @@
+---
+title: fMRI Data
+layout: page
+under_construction: true
+parent: Chapter 4
+nav_order: 1
+---
+
+# Data
+fMRI data is often interpreted using the ‘nipy’ Python package. The data is loaded in externally usually in the form of DICOM (.dcm) or NIfTI (.img with .hdr or .nii) files. There are several steps involved in analyzing and interpreting fMRI data, including data preprocessing, statistical analysis, and results interpretation.
+
+Preprocessing is vital to removing artifacts and extraneous information from the raw data. Preprocessing includes correcting for any baseline drift, aligning the slices with the correct timings, correcting for any motion during data collection, normalizing and smoothing over the space dimension. It is primarily used to help isolate the key features of investigation. After the data is processed, it will be analyzed.
+
+There are several methods for analyzing fMRI data, but the most commonly used model is a General Linear Model (GLM). Conceptually, GLM tries to make linear or quadratic model to identify the relationships between the independent variables and the dependent variable. In terms of fMRI, GLM is used to estimate the neural activity associated with experimental conditions. GLM analysis involves training the model on training data, designing a model that accurately fits the data, and contrasting the error of the model with the actual values. In analyzing, the key worry is underfitting or overfitting data. If the model underfits, it will not be able to grasp the full interactions between variables, and the effect they have. Overfitting will lead to the most minute of details being picked up, which may lead to problems of the wrong correlations or patterns in the data being reinforced. One good way to maintain the right amount of fitting for a model is picking an appropriate statistical threshold. Determining what the minimum level of statistical significance is helps elucidate whether an observation is valid and contributing information or not. Choosing a low threshold increases the chance of false positives, while choosing too high of a threshold may cause important interactions and neural activity to be missed. After the data is created and a model is made, it must be interpreted.
+
+The most common way to interpret fMRI data is to use a statistical parametric mapping (SPM) software. fMRI data is usually shown in four dimensions; horizontal (x-axis), vertical (y-axis), depth (z-axis), and time. SPM helps researchers visualize the data in a three-dimensional brain space to locate areas of significance in neural activity. Another method that helps researchers interpret is doing a region of interest (ROI) analysis. As the name implies, the analysis is meant to look at a specific region of interest, for example the hippocampus, and provide a more targeted and in-depth look at what is going on, and what it means. Similarly, extracting and interpreting only the time dimensions may provide vital information as to the temporal dynamics of neural activity. This is often done with the aid of other techniques like electroencephalography (EEG) or magnetoencephalography (MEG). It should be noted that the interpretation of these results involves understanding the underlying neural mechanisms and what areas of the brain are associated with what to better discern what an observation means.

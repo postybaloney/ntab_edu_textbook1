@@ -7,6 +7,16 @@ nav_order: 3
 has_right_toc: true
 ---
 
+{% if page.has_right_toc %}
+    <nav class="content-nav {% if page.title contains 'FAQ' %}nav-faq{% endif %}">
+      {% include toc.html html=content sanitize=true class="nav-list js-toc"
+      item_class="nav-list-item" anchor_class="nav-list-link" h_min=1 h_max=3 %}
+    </nav>
+    <div class="content-container">{{content}}</div>
+  {% else %} 
+    {{content}} 
+  {% endif %}
+
 # What is fMRI Data?
 Welcome to the fMRI lab! We will be diving into fMRI data using Python/data science concepts. If you need to review these topics, please go over the optional Python Primer before starting this lesson.
 

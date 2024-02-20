@@ -6,7 +6,7 @@ parent: Chapter 2
 nav_order: 2
 ---
 
-![Action Potential](./assets/images/ActionPotential.png)
+![Action Potential](ActionPotential.png)
 
 # Action Potential
 

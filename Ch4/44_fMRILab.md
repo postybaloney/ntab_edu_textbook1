@@ -15,7 +15,7 @@ has_right_toc: true
     <div class="content-container">{{content}}</div>
   {% else %} 
     {{content}} 
-  {% endif %}
+{% endif %}
 
 # What is fMRI Data?
 Welcome to the fMRI lab! We will be diving into fMRI data using Python/data science concepts. If you need to review these topics, please go over the optional Python Primer before starting this lesson.

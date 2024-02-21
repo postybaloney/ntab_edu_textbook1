@@ -4,7 +4,8 @@ theme: just-the-docs
 # logo: "/assets/images/oohwowlogo.png"
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor"]
 
-url: https://postybaloney.github.io/ntab_edu_textbook1
+url: 'https://postybaloney.github.io/'
+baseurl: 'ntab_edu_textbook1/' # if you're using custom domain keep this blank example: baseurl: ''
 
 color_scheme: dark
 search_enabled: true

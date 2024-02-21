@@ -349,6 +349,7 @@ From voxel timeseries plots the next most popular visualization is the set of se
 ### **(1) Axial (or horizontal) slice: plane in (X,Y)**
 
 ![Img](sliceBrain.png)
+<img src="https://postybaloney.github.io/ntab_edu_textbook1/assets/images/sliceBrain.png" alt="Untitled" />
 
 ```python
     # Basic Axial Slice (Set Z fixed)

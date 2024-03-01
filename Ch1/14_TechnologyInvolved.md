@@ -5,6 +5,7 @@ under_construction: true
 parent: Chapter 1
 nav_order: 3
 ---
+<img src="https://postybaloney.github.io/ntab_edu_textbook1/assets/images/neuroimaging.webp" alt="neuroimaging" />
 
 # What Kinds of Technology is Involved?
 Neurotech involves a myriad of technologies that are used to understand, diagnose, and treat nervous system conditions. Some of the key technologies are: Brain-Computer Interfaces (BCIs), Neuroprosthetics, Neuroimaging, Neuromodulation, and Genomics.

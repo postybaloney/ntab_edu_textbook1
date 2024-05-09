@@ -11,10 +11,10 @@ theme: just-the-docs
 {%- if site.under_construction -%}
 
 <p class="warning" style="color:red">
-<b><span style="color: red">This site is under construction. All dates and policies are tentative until this message goes away.</span></b>
+<b><span style="color: red">This Chapter is under construction. All information may not be accurate or up to date.</span></b>
 </p>
 {%- endif -%}
 
-TEST TEST HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA
+# Industry
 
-To be completed
+In this chapter, we will briefly cover all the relevant startups and aspects that neurotechnology is commercially covering

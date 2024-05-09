@@ -1,8 +1,8 @@
 ---
-title: Chapter 6
+title: Chapter 8
 layout: page
-description: Chapter 6
-nav_order: 6
+description: Chapter 8
+nav_order: 8
 has_children: true
 under_construction: true
 theme: just-the-docs
@@ -15,6 +15,4 @@ theme: just-the-docs
 </p>
 {%- endif -%}
 
-# Foundations of Technology
-
-There is a lot of electronics behind all this phenomenal technology. In this chapter, we will go over the basics of circuits, signal processing, and machine learning
+# Appendix

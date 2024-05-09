@@ -6,13 +6,8 @@ nav_order: 1
 has_children: true
 under_construction: true
 theme: just-the-docs
+released: true
 ---
-
-{%- if site.under_construction -%}
-<p class="warning" style="color:red">
-<b><span style="color: red">This Chapter is under construction. All information may not be accurate or up to date.</span></b>
-</p>
-{%- endif -%}
 
 # What is Neurotechnology?
 

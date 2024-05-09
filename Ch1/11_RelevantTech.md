@@ -7,12 +7,12 @@ parent: Chapter 1
 nav_order: 0
 ---
 
-{% if page.has_right_toc %}
-    <nav class="content-nav {% if page.title contains 'FAQ' %}nav-faq{% endif %}">
-      {% include toc.html html=content sanitize=true class="nav-list js-toc"
-      item_class="nav-list-item" anchor_class="nav-list-link" h_min=1 h_max=3 %}
-    </nav>
-    <div class="content-container">{{content}}</div>
+{% if site.has_right_toc %}
+<nav class="content-nav {% if page.title contains 'FAQ' %}nav-faq{% endif %}">
+    {% include toc.html html=content sanitize=true class="nav-list js-toc"
+    item_class="nav-list-item" anchor_class="nav-list-link" h_min=1 h_max=3 %}
+</nav>
+<div class="content-container">{{content}}</div>
 {%- endif -%}
 
 # Electrodes

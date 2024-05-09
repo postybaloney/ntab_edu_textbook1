@@ -24,6 +24,6 @@ footer_content:
 callouts:
   warning:
     title: Warning
-    color: yellow
+    color: red
 
 under_construction: true

@@ -1,5 +1,5 @@
 ---
-title: Relevant technology
+title: Relevant Technology
 layout: page
 under_construction: true
 has_right_toc: true

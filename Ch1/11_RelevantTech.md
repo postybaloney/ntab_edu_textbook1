@@ -2,7 +2,6 @@
 title: Relevant Technology
 layout: page
 under_construction: true
-has_right_toc: true
 parent: Chapter 1
 nav_order: 0
 released: true

@@ -2,11 +2,12 @@
 layout: default
 ---
 
-{% if site.under_construction %}
-<p class="warning">
-This site is under construction. All dates and policies are tentative until this message goes away.
+{%- if site.under_construction -%}
+
+<p class="warning" style="color:red">
+<b><span style="color: red">This Chapter is under construction. All information may not be accurate or up to date.</span></b>
 </p>
-{% endif %}
+{%- endif -%}
 
 {% capture content %}
 {% unless page.hide_title %}

@@ -4,6 +4,7 @@ layout: page
 under_construction: true
 parent: Chapter 1
 nav_order: 3
+released: true
 ---
 <img src="https://postybaloney.github.io/ntab_edu_textbook1/assets/images/neuroimaging.webp" alt="neuroimaging" />
 

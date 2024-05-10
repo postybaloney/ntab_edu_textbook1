@@ -4,6 +4,7 @@ layout: page
 under_construction: true
 parent: Chapter 1
 nav_order: 4
+released: true
 ---
 
 # What Problems is Neurotech Trying to Solve?

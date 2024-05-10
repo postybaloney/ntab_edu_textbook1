@@ -7,6 +7,12 @@ nav_order: 0
 released: true
 ---
 
+<ol>
+- Electrodes
+-- Stimulating Electrodes
+-- Readout Electrodes
+</ol>
+
 
 ## Electrodes
 {:toc}

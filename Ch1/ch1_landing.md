@@ -7,7 +7,7 @@ has_children: true
 under_construction: true
 theme: just-the-docs
 released: true
-has_toc: true
+has_right_toc: true
 ---
 
 # What is Neurotechnology?

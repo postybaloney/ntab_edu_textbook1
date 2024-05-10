@@ -7,9 +7,6 @@ nav_order: 0
 released: true
 ---
 
-<ol>
-- Electrodes
-{: toc}
 
 
 ## Electrodes

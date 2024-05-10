@@ -20,7 +20,7 @@ layout: default
 {% endcapture %}
 {% if page.released or jekyll.environment == "debug" -%}
   {% if page.has_right_toc %}
-    <nav class="content-nav {% if page.title contains 'FAQ' %}nav-faq{% endif %}">
+    <nav class="content-nav">
       {% include toc.html html=content sanitize=true class="nav-list js-toc"
       item_class="nav-list-item" anchor_class="nav-list-link" h_min=1 h_max=3 %}
     </nav>

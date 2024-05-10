@@ -10,7 +10,6 @@ released: true
 <ol>
 - Electrodes
 {: toc}
-</ol>
 
 
 ## Electrodes

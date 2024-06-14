@@ -4,6 +4,7 @@ layout: page
 under_construction: true
 parent: Chapter 4
 nav_order: 3
+released: true
 ---
 
 # What is fMRI Data?

@@ -6,7 +6,7 @@ layout: page
 nav_order: 0
 ---
 
-<img align="left" alt="BrainBear" width="50px" src="assets/images/oohwowlogo.png">
+<img align="right" alt="BrainBear" width="50px" src="assets/images/oohwowlogo.png">
 
 By [Neda Bahrani](https://www.linkedin.com/in/neda-bahrani-654125186/), [Amelia Lubelska](https://www.linkedin.com/in/amelia-lubelska-548370221/), [Samreena Siddiqui](https://www.linkedin.com/in/samreenasiddiqui/), [Izzie Yu](https://www.linkedin.com/in/izzie-yu/), [Srujana Poluri](https://www.linkedin.com/in/srujana-poluri-289358258/), [Parth Desai](http://linkedin.com/in/parth-desai-70641316b), [Pratyush Das](http://linkedin.com/in/pratdas), and [Phil Xie](https://www.linkedin.com/in/phil-xie/).
 

@@ -13,4 +13,4 @@ released: True
 
 # What is the physiological brain?
 
-The brain is a very complex organism. In this chapter, we will look at what the brain is physiologically including relevant systems in the body that use the brain in respect to neurotechnologies.
+Our brain is an biological marvel. In this chapter, we will look at the how the nervous system is constructed, what are the relevant parts of the brain that are investigated in the industry, the connection between the nervous system and the motor and sensory systems in the body.

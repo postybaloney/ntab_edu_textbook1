@@ -17,4 +17,4 @@ theme: just-the-docs
 
 # What is the philosophical brain?
 
-In this chapter, we will look at various theories about what the brain represents philosophically and spiritually.
+Our brain is more than just a collection of physical aspects. Many people over time has come up with philosophical interpretations of the mind and brain. In this chapter, we will look at how we think of the mind separate from the brain, perception, attetion, and how we learn.

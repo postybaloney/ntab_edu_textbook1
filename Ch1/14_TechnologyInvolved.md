@@ -1,7 +1,7 @@
 ---
 title: Technology Involved
 layout: page
-under_construction: true
+under_construction: false
 parent: Chapter 1
 nav_order: 3
 released: true

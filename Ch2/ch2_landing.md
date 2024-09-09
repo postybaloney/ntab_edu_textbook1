@@ -4,7 +4,7 @@ layout: page
 description: Chapter 2
 nav_order: 2
 has_children: true
-under_construction: true
+under_construction: false
 theme: just-the-docs
 released: True
 ---

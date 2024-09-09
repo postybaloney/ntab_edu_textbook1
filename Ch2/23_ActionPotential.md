@@ -1,7 +1,7 @@
 ---
 title: Action Potential
 layout: page
-under_construction: true
+under_construction: false
 parent: Chapter 2
 nav_order: 2
 ---

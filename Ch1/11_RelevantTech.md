@@ -1,7 +1,7 @@
 ---
 title: Relevant Technology
 layout: page
-under_construction: true
+under_construction: false
 parent: Chapter 1
 nav_order: 0
 released: true

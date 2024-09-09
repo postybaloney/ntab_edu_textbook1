@@ -1,7 +1,7 @@
 ---
 title: Ethical Concerns
 layout: page
-under_construction: true
+under_construction: false
 parent: Chapter 1
 nav_order: 2
 released: true

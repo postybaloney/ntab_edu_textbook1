@@ -4,6 +4,7 @@ layout: page
 under_construction: false
 parent: Chapter 2
 nav_order: 2
+released: true
 ---
 
 <img src="https://postybaloney.github.io/ntab_edu_textbook1/assets/images/ActionPotential.png" alt="Action Potential" />

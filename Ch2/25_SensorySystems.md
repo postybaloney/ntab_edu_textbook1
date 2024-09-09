@@ -4,6 +4,7 @@ layout: page
 under_construction: false
 parent: Chapter 2
 nav_order: 4
+released: true
 ---
 
 # Sensory Systems

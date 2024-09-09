@@ -4,6 +4,7 @@ layout: page
 under_construction: false
 parent: Chapter 2
 nav_order: 1
+released: true
 ---
 
 # The Nervous System

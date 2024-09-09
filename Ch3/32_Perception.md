@@ -4,6 +4,7 @@ layout: page
 under_construction: false
 parent: Chapter 3
 nav_order: 1
+released: true
 ---
 
 # Perception

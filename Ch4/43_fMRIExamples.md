@@ -8,7 +8,6 @@ released: true
 ---
 
 # Examples
-Imagessssssssssssssssssss
 
 While advancements in imaging technology have allowed researchers to evaluate structural issues in the brain, many neurological disorders can only be mapped through physiological markers. This makes functional MRI (fMRI)–which is both safe and quite accessible–incredibly useful for brain researchers and neurosurgeons.
 

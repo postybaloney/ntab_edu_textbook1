@@ -4,6 +4,7 @@ logo: "/assets/images/oohwowlogo.png"
 favicon_ico: "/assets/images/oohwowlogo.ico"
 layout: page
 nav_order: 0
+released: true
 ---
 
 <img align="right" alt="BrainBear" width="50px" src="assets/images/oohwowlogo.png">
